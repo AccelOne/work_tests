@@ -17,7 +17,7 @@ There are three variations on the Canon 5D MK II. Note that the last entry, "Can
         'Canon 5dMKII': 'Canon 5D Mark II'
     }
 
-Python preferred but not required, as long as we can run your code. An explanation of your thought process either as a separate file or in detailed comments in code would be appreciated. You're not required to spend more than an hour on this, incompleted tasks will be considered too.
+Python preferred but not required, as long as we can run your code. An explanation of your thought process either as a separate file or in detailed comments in code would be appreciated. Please **don't spend more than an hour on this** unless it interests you, in which case indicate how much longer you worked on this.
 
 When you are done, you can upload to a github repo (but DON'T fork this one because other applicants will view your work), or if you don't have a github account you may tar or zip your script and all related materials. Email your link or attachments to alec@nimia.com. 
 
